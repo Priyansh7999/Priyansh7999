@@ -14,15 +14,16 @@ Hey there! I'm Priyansh Saxena a passionate developer who loves to create innova
 - 🛠️ Frameworks/Libraries: NumPy,Pandas,OpenCV,STL
 - 🗃️ Databases: MySQL
 - ☁️ Cloud Technologies:Google Cloud Platform
-- 🎨 Frontend: HTML,CSS,Javascript
-- 🖥️ Backend: React.js,Nord.js
+- 🎨 Frontend: HTML,CSS,Javascript,React.js
+- 🖥️ Backend: Nord.js
 
 ## Projects
 
 Here are some of the projects I'm currently working on or have contributed to:
 
 1. BUS_BOOKING_SYSTEM (https://github.com/Priyansh7999/BUS_BOOKING_SYSTEM.git)
-2. AI_ASSISTANT (UPCOMING) 
+2. AI-Rock-Paper-Scissor-with-hand-gesture-main
+3. AI_ASSISTANT (UPCOMING) 
 
 Feel free to check them out and provide feedback or contribute if you find them interesting!
 
