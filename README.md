@@ -32,21 +32,21 @@ I'm a passionate developer with expertise in multiple programming languages and 
 A user-friendly bus reservation system with a graphical interface, built using Python and Tkinter. It allows users to book, cancel, and view reservations.
 
 
-[View Project]([(https://github.com/Priyansh7999/BUS_BOOKING_SYSTEM)])
+[View Project](https://github.com/Priyansh7999/BUS_BOOKING_SYSTEM)
 
 ### 2. AI Rock-Paper-Scissor with Hand Gesture using OpenCV
 An AI-powered game that recognizes hand gestures (rock, paper, scissors) using OpenCV and plays against the user.
 
 
 
-[View Project]((https://github.com/Priyansh7999/AI-Rock-Paper-Scissor-with-hand-gestureOPENCV))
+[View Project](https://github.com/Priyansh7999/AI-Rock-Paper-Scissor-with-hand-gestureOPENCV)
 
 ### 3. Password Crack
 A powerful tool to test the strength of passwords and demonstrate the importance of using strong, secure passwords.
 
 
 
-[View Project]((https://github.com/Priyansh7999/password-crack))
+[View Project](https://github.com/Priyansh7999/password-crack)
 
 ## 📫 How to reach me
 
@@ -62,11 +62,5 @@ A powerful tool to test the strength of passwords and demonstrate the importance
 <!-- Animated Image -->
 ![Coding](https://user-images.githubusercontent.com/your-image-url/coding.gif)
 
-## 📝 Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title](https://your-blog-url.com)
-<!-- BLOG-POST-LIST:END -->
 
-<!-- Footer -->
-![Footer](https://user-images.githubusercontent.com/your-image-url/footer.png)
