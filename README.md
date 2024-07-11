@@ -1,40 +1,27 @@
-# Welcome to My GitHub Profile! 👋
 
-Hey there! I'm Priyansh Saxena a passionate developer who loves to create innovative solutions and explore new technologies. This is my GitHub playground where you can find a variety of projects, ranging from personal experiments to open-source contributions. Feel free to explore and contribute!
+<h1 align="center">Hi 👋, I'm PRIYANSH SAXENA</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawal464&label=Profile%20views&color=0e75b6&style=flat" alt="agrawal464" /> </p>
 
-- 🚀 Software Engineer with a focus on devloping new things
-- 💼 Currently pursuing B.Tech degree from Jaypee University
-- 🌱 Always learning and exploring new technologies
-- 📫 How to reach me:  priyanshsaxena7999@gmail.com
-## My Tech Stack
+- 🔭 I’m currently working on *backend*
 
-- 💻 Languages: Python,Java,C++,C
-- 🛠️ Frameworks/Libraries: NumPy,Pandas,OpenCV,STL
-- 🗃️ Databases: MySQL
-- ☁️ Cloud Technologies:Google Cloud Platform
-- 🎨 Frontend: HTML,CSS,Javascript,React.js
-- 🖥️ Backend: Nord.js
+- 💬 Ask me about *WEB* *OPEN CV* *ANDROID*
 
-## Projects
+- 📫 How to reach me *priyanshsaxena7999@gmail.com*
 
-Here are some of the projects I'm currently working on or have contributed to:
+- ⚡ Fun fact *That's a great combo, being able to balance humor and seriousness can make you a very engaging and relatable person!*
 
-1. BUS_BOOKING_SYSTEM (https://github.com/Priyansh7999/BUS_BOOKING_SYSTEM.git)
-2. AI-Rock-Paper-Scissor-with-hand-gesture-main
-3. AI_ASSISTANT (UPCOMING) 
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+</p>
 
-Feel free to check them out and provide feedback or contribute if you find them interesting!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## Get in Touch
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyansh7999&show_icons=true&locale=en&layout=compact" alt="Priyansh7999" /></p>
 
-- LinkedIn: https://www.linkedin.com/in/priyansh-saxena-399799254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: priyanshsaxena7999@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyansh7999&show_icons=true&locale=en" alt="Priyansh7999" /></p>
 
-
-Thanks for stopping by! 😊
-<!---
-Priyansh7999/Priyansh7999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh7999&" alt="Priyansh7999" /></p>
